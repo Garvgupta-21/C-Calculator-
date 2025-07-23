@@ -1,0 +1,2 @@
+t<<"Enter operands ";
+                cin>
